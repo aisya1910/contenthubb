@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.semrush.com	TRUE	/	FALSE	1999999999	GCLB	CIaGg-XljumaYRAD
+static.semrush.com	TRUE	/	FALSE	1999999999	GCLB	CJ3HyNXE-P7NuwEQAw
+.semrush.com	TRUE	/	FALSE	1999999999	localization	%7B%22locale%22%3A%22en%22%7D
+static.semrush.com:443	TRUE	/	FALSE	1999999999	GCLB	COXlmebyyJ70lwEQAw
+

@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Jan 2025 18:14:47 at https://www.semrush.com/blog/digital-content-creation/?g_network=g&g_keyword=&g_acctid=633-384-9840&g_campaign=AA_SRCH_DSA_Blog_EN&g_keywordid=dsa-2228200449078&g_adtype=search&g_adid=676513944447&g_campaignid=18361936995&g_adgroupid=162954369508&kw=&cmp=AA_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=676513944447&kwid=dsa-2228200449078&cmpid=18361936995&agpid=162954369508&BU=Core&extid=105279941278&adpos=&gad_source=1&gclid=EAIaIQobChMI4pqp35SBiwMVDKRmAh3k9THIEAAYBCAAEgL-4vD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.semrush.com/blog/digital-content-creation/?g_network=g&g_keyword=&g_acctid=633-384-9840&g_campaign=AA_SRCH_DSA_Blog_EN&g_keywordid=dsa-2228200449078&g_adtype=search&g_adid=676513944447&g_campaignid=18361936995&g_adgroupid=162954369508&kw=&cmp=AA_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=676513944447&kwid=dsa-2228200449078&cmpid=18361936995&agpid=162954369508&BU=Core&extid=105279941278&adpos=&gad_source=1&gclid=EAIaIQobChMI4pqp35SBiwMVDKRmAh3k9THIEAAYBCAAEgL-4vD_BwE -O1 "D:\CONTENT HUB\CONTENT HUB 5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 46 links scanned, 45 files written (5222371 bytes overall) [3782136 bytes received at 49764 bytes/sec], 2202180 bytes transferred using HTTP compression in 31 files, ratio 32%
+(No errors, 0 warnings, 0 messages)
