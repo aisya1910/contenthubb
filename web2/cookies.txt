@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.memberful.com	TRUE	/	FALSE	1999999999	__cf_bm	Y68wXG5vh_y93yRhnQ_MQaqfRSiWcEriE0SgwxuDEBA-1737282572-1.0.1.1-bNW9zc2vXn1gC76UHGk.6SDfWTX0.yIj69MpAW91hZIFMPMF.Sm_TwVqz3Xd53Qp8BJMxGcQd8YXPfcLgWQYJQ
+memberful.com	TRUE	/	FALSE	1999999999	SameSite	None
+
